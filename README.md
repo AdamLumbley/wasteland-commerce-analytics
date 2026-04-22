@@ -76,7 +76,7 @@ Tracks revenue over time including:
 
 ## 📊 Example Insights
 
-Energy weapons and armor generate the highest revenue concentration, indicating premium demand dominates overall sales value
+- Energy weapons and armor generate the highest revenue concentration, indicating premium demand dominates overall sales value
 Faction behavior varies: Brotherhood of Steel shows higher armor purchases, while Raiders skew toward improvised weapons and explosives
 Revenue trends show periodic spikes, likely driven by high-value bulk transactions rather than steady daily demand
 A small subset of products accounts for a disproportionate share of total revenue, confirming a strong Pareto (80/20) distribution pattern
