@@ -76,11 +76,10 @@ Tracks revenue over time including:
 
 ## 📊 Example Insights
 
-- Energy weapons and armor categories dominate revenue in high-value transactions  
-- Faction behavior differs significantly in purchasing patterns  
-- Revenue trends show fluctuations over time with clear peaks in activity  
-- A small subset of products drives a large share of total revenue  
-
+Energy weapons and armor generate the highest revenue concentration, indicating premium demand dominates overall sales value
+Faction behavior varies: Brotherhood of Steel shows higher armor purchases, while Raiders skew toward improvised weapons and explosives
+Revenue trends show periodic spikes, likely driven by high-value bulk transactions rather than steady daily demand
+A small subset of products accounts for a disproportionate share of total revenue, confirming a strong Pareto (80/20) distribution pattern
 ---
 
 ## 🧪 Tech Stack
